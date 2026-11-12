@@ -1,5 +1,6 @@
 # Lab 3 – Đề 5. FallGuard
-Sinh viên: Nguyễn Ngọc Thọ 
+Sinh viên: Nguyễn Ngọc Thọ
+
 MSV: 231432360
 
 **Môn Hệ thống nhúng** · Thiết kế mạch phát hiện té ngã dùng ESP32, MPU6050, FreeRTOS và MQTT.
