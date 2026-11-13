@@ -68,7 +68,7 @@ Dashboard hiển thị Ax, Ay, Az, gia tốc tổng và góc nghiêng, cùng hai
 
 ### Video mô phỏng té ngã
 
-[Tải video mô phỏng FallGuard (MP4)](https://github.com/nntisme179/lab3-fallguard_nnTho179/releases/download/demo-video/MophongTeNga.mp4)
+https://github.com/user-attachments/assets/4fce6b2c-43d4-40fc-9861-34582a79e238
 
 ## 8. Kết quả kiểm thử mô phỏng
 
