@@ -8,6 +8,7 @@ MSV: 231432360
 - [Mở dự án mô phỏng trên Wokwi](https://wokwi.com/projects/477918510824406017)
 - [Xem mã ESP32](wokwi/sketch.ino)
 - [Đến phần giao diện Web Dashboard](#7-giao-diện-web-dashboard)
+- [Báo cáo](Bao_cao_Lab3_De5_NguyenNgocTho.pdf)
 
 ## 1. Yêu cầu bài toán
 
