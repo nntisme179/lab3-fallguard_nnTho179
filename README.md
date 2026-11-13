@@ -66,6 +66,10 @@ Dashboard hiển thị Ax, Ay, Az, gia tốc tổng và góc nghiêng, cùng hai
 - **Web liên kết Wokwi**. Chạy [dự án Wokwi](https://wokwi.com/projects/477918510824406017), đợi Serial hiện `[MQTT C0] Connected / subscribed`, rồi chọn **Web liên kết Wokwi** trên dashboard. Khi ESP32 trực tuyến, có thể chọn **MANUAL** để thử LED/còi hoặc chạy **Bắt đầu Web + Wokwi** để thử kịch bản té ngã.
 - Nếu Wokwi báo lỗi IoT Gateway, dùng nguồn **Mô phỏng Web** để trình diễn giao diện và dùng Serial Monitor để quan sát dữ liệu cảm biến tại chỗ.
 
+### Video mô phỏng té ngã
+
+[Tải video mô phỏng FallGuard (MP4)](https://github.com/nntisme179/lab3-fallguard_nnTho179/releases/download/demo-video/MophongTeNga.mp4)
+
 ## 8. Kết quả kiểm thử mô phỏng
 
 | Kịch bản | Kết quả quan sát |
